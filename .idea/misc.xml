@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/drawable/conteiner_componentes.xml" value="0.108" />
+        <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/drawable/edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/drawable/fundo.xml" value="0.1" />
+        <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.179" />
+        <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/layout/activity_forme_login.xml" value="0.2" />
         <entry key="..\:/Users/zequinha/AndroidStudioProjects/CapTaxi/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
     </option>
