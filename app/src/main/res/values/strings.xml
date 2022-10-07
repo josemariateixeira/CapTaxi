@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CapTaxi</string>
     <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Faça seu cadastro clicando aqui!</string>
 </resources>
