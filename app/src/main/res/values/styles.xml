@@ -30,7 +30,7 @@
         <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textAllCaps">false</item>
-        <item name="android:background">@drawable/button</item>
+        <item name="android:background">@color/laranja</item>
     </style>
     
 </resources>

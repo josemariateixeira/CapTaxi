@@ -3,4 +3,16 @@
     <string name="entrar">Entrar</string>
     <string name="text_cadastro">Faça seu cadastro clicando aqui!</string>
     <string name="title_cadastro">Cadastre-se</string>
+    <string name="title_activity_tela_menu_principal">Tela_menu_principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CapTáxi</string>
+    <string name="nav_header_subtitle">captaxi.viagens@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Tela Pricipal</string>
+    <string name="menu_cat_motorista">Catálogo de Motoristas</string>
+    <string name="menu_areaMotorista">Área do motorista</string>
+    <string name="menu_sobreNos">Sobre Nós</string>
 </resources>
