@@ -6,12 +6,16 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_TelaPincipal"
-            android:icon="@drawable/icon"
+            android:icon="@android:drawable/ic_dialog_dialer"
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_catalogo"
-            android:icon="@drawable/passageiro"
+            android:icon="?attr/actionModeCopyDrawable"
             android:title="@string/menu_cat_motorista" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Localizar no Mapa" />
         <item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_usuario"
@@ -20,5 +24,7 @@
             android:id="@+id/nav_slideshow"
             android:icon="@android:drawable/stat_notify_chat"
             android:title="@string/menu_sobreNos" />
+
+
     </group>
 </menu>
