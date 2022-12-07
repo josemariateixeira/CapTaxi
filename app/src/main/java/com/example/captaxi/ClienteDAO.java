@@ -13,6 +13,7 @@ public class ClienteDAO {
     public final Conexao conexao;
     private final SQLiteDatabase banco;
 
+
     public ClienteDAO (Context context){
         conexao = new Conexao(context);
         banco = conexao.getWritableDatabase();
@@ -59,4 +60,7 @@ public class ClienteDAO {
                 "id = ?", new String[] {cliente.getId() .toString()});
     }
 
+
+
 }
+
