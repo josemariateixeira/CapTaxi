@@ -15,4 +15,6 @@
     <string name="menu_cat_motorista">Catálogo de Motoristas</string>
     <string name="menu_areaMotorista">Área do motorista</string>
     <string name="menu_sobreNos">Sobre Nós</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
