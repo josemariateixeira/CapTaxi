@@ -98,7 +98,7 @@ public class ListClientActivity extends AppCompatActivity {
     }
 
     public void cadastrar(MenuItem item){
-        Intent it = new Intent(this,Form_cadastro.class);
+        Intent it = new Intent(this, CadastroClienteActivity.class);
         startActivity(it);
     }
 
@@ -107,7 +107,7 @@ public class ListClientActivity extends AppCompatActivity {
                 (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
 
         final Cliente clienteAtualizar = clientesFiltrados.get(menuInfo.position);
-        Intent it = new Intent(this, Form_cadastro.class);
+        Intent it = new Intent(this, CadastroClienteActivity.class);
         it.putExtra("cliente", clienteAtualizar);
         startActivity(it);
 
